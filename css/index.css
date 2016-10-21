@@ -1,0 +1,15 @@
+body{
+	padding: 30px;
+}
+input{
+	width: 200px;
+	height: 30px;
+	line-height: 30px;
+}
+div{
+	margin: 20px 0;
+}
+#totleM{
+	color: #fbb000;
+	font-size: 24px;
+}
